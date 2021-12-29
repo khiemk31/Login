@@ -9,7 +9,7 @@ export default function App() {
     Ubuntu_Bold:require('./assets/fonts/Ubuntu-Bold.ttf'),
     Ubuntu_Regular:require('./assets/fonts/Ubuntu-Regular.ttf'),
   });
-  
+  ádfsdafsda
   // if (!loaded) {
   //   return null;
   // };
